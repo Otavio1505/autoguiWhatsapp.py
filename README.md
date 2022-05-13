@@ -1,2 +1,2 @@
 # autoguiWhatsapp.py
-Automação capaz de enviar mensagem para contato desejado.
+Automação capaz de enviar a mesma mensagem para um ou vários contatos ao mesmo tempo.
