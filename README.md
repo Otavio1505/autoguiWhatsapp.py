@@ -32,7 +32,7 @@ Após a confirmação destes inputs, o programa dará início ao processo de aut
 
 Caso o usuário tenha informado que deseja Contatos Múltiplos, os 3 passos inicias serão feitos apenas uma vez, havendo a repetição apenas para o Passo 4, que irá se repetir conforme a quantidade de contatos que o usuário deseja enviar.
 
-# Saída
+# Saídas
 
 1. Saída para: Contato Único
 
@@ -42,3 +42,7 @@ Caso o usuário tenha informado que deseja Contatos Múltiplos, os 3 passos inic
 
 ![multicontatos auto](https://user-images.githubusercontent.com/84475339/168656288-5682bf6e-2505-45ee-83db-3d6782f5bf42.png)
 
+
+# Autor
+
+Otávio Moraes Braga
