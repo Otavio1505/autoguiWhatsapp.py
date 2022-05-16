@@ -19,7 +19,7 @@ Se o usuário desejar enviar mensagens para Contatos Múltiplos, será aberto um
 
 ![a](https://user-images.githubusercontent.com/84475339/168652440-185948dc-db0e-49f9-9572-86da3e7c9d66.png)
 
-Após a confirmação destes inputs, o programa dará início ao processo de automação, que serão explicados agora por meio de X passos.
+Após a confirmação destes inputs, o programa dará início ao processo de automação, que será compostos por 4 passos.
 
 1. O programa abrirá a Área de Trabalho, e através do botão Windows, abrirá o navegador.
 
@@ -34,7 +34,10 @@ Caso o usuário tenha informado que deseja Contatos Múltiplos, os 3 passos inic
 # Saída
 
 1. Saída para: Contato Único
-foto
+
+![contatouni auto](https://user-images.githubusercontent.com/84475339/168656823-664d4903-eb51-4839-8e67-bcb0ed453d77.png)
 
 2. Saída para: Contatos Múltiplos
-foto
+
+![multicontatos auto](https://user-images.githubusercontent.com/84475339/168656288-5682bf6e-2505-45ee-83db-3d6782f5bf42.png)
+
