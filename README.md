@@ -11,13 +11,16 @@ Ao iniciar o programa, será aberto um Menu interativo com o usuário, na qual o
 
 ![a](https://user-images.githubusercontent.com/84475339/168650992-044a2d70-7c11-41b0-b52b-1f5e323010b6.png)
 
+
 Caso seja informado a preferência por Contato Único, será aberto apenas 2 inputs, onde o usuário precisará informar o nome do Contato (primeiro input) e a mensagem que deseja enviar (segundo input)
 
 ![a](https://user-images.githubusercontent.com/84475339/168651145-9b2a5935-93c6-4d35-83f0-43750743449f.png)
 
+
 Se o usuário desejar enviar mensagens para Contatos Múltiplos, será aberto um input alternativo, na qual o usuário deverá inserir a quantidade de contatos destinatários, havendo assim um entendimento do programa, de quantos inputs de contatos, deverão ser abertos. Após o usuário informar a quantidade de contatos destinatários e preencher os inputs de contato, será aberto o input de mensagem onde o usuário deverá preencher o campo com a mensagem que deseja enviar aos contatos.
 
 ![a](https://user-images.githubusercontent.com/84475339/168652440-185948dc-db0e-49f9-9572-86da3e7c9d66.png)
+
 
 Após a confirmação destes inputs, o programa dará início ao processo de automação, que será compostos por 4 passos.
 
@@ -29,7 +32,9 @@ Após a confirmação destes inputs, o programa dará início ao processo de aut
 
 4. Com o contato localizado, a conversa será aberta e a mensagem (informada no input) será escrita e enviada.
 
+
 Caso o usuário tenha informado que deseja Contatos Múltiplos, os 3 passos inicias serão feitos apenas uma vez, havendo a repetição apenas para o Passo 4, que irá se repetir conforme a quantidade de contatos que o usuário deseja enviar.
+
 
 # Saída
 
