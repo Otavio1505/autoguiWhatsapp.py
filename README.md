@@ -21,7 +21,7 @@ Se o usuário desejar enviar mensagens para Contatos Múltiplos, será aberto um
 
 Após a confirmação destes inputs, o programa dará início ao processo de automação, que será compostos por 4 passos.
 
-1. O programa abrirá a Área de Trabalho, e através do botão Windows, abrirá o navegador.
+1. O programa abrirá a Área de Trabalho, e através do botão Windows e da barra de pesquisa, abrirá o navegador.
 
 2. Com o navegador aberto, o programa irá acessar a URL: https://web.whatsapp.com. (É necessário que haja o login automático na conta do remetente das mensagens).
 
